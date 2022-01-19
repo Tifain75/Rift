@@ -1,9 +1,9 @@
 '''
 Created on 18 janv. 2022
 
-@author:  d
+@author:  tifain75
 '''
 
 if __name__ == '__main__':
-    print("Bonjour à tous s")
+    print("Bonjour à tous")
     pass
